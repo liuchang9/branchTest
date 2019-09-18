@@ -5,4 +5,3 @@ public class testNewbranch {
         System.out.println("第一个分支测试");
     }
 }
-    Git init
